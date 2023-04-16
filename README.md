@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 I'm a Software Engineer with a passion for data science/machine learning. I have experience working on a variety of projects in this field, including EGC signals, advanced analytics, predictions and much more.<br>📫 Shoot me and Email or add me on LinkedIn 
+😎 I'm a Software Engineer with a passion for data science/machine learning. I have experience working on a variety of projects in this field, including EGC signals, emotion detection, advanced analytics, predictions and much more.<br>📫 Shoot me and Email or add me on LinkedIn 
 
 
 ## 🌐 Socials:
