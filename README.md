@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 😎 I'm a Software Engineer with a passion for data science/machine learning. I have experience working on a variety of projects in this field, including ECG signals, emotion detection, advanced analytics, predictions and much more.<br>📫 Shoot me and Email or add me on LinkedIn 
 
 
